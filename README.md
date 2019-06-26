@@ -11,7 +11,5 @@ Voici une fichier README qui explique quelques fonctionnalitées
 Voici une texte en **gras** ou en *italique*
 
 ```js
-test = function() {
-    
-}
+test = function() { }
 ```
